@@ -21,11 +21,14 @@ Google Colab
 Pretrained Models: GloVe, BERT (HuggingFace Transformers)
 
 # 📁 프로젝트 구조
+<pre>
+```plaintext
 ├── mnlist데이학습_LR모델.py               # Logistic Regression with MNIST
 ├── FashionMNIST와 여러 Optimizer.py      # MLP 구현 + 다양한 Optimizer 실험
 ├── XOR문제.py                           # XOR 분류 문제 및 Perceptron 구현
 ├── 영화평감정분석_LSTM&BERT.py          # IMDB 영화리뷰 감정 분석 with LSTM, BERT
 └── README.md
+</pre>
 
 # 🧪 실습 내용 요약
 🔹 Logistic Regression (MNIST)
