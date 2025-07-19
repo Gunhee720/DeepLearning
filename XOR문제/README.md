@@ -38,7 +38,7 @@ Perceptron, Logistic Regression, MLP 모델의 성능을 비교하고 시각화�
 ---
 
 ## 🧪 모델별 실험 요약
-![Uploading image.png…]()
+<img width="664" height="539" alt="image" src="https://github.com/user-attachments/assets/0101b93d-85a5-4c33-9753-03a141054209" />
 
 | 모델 | Train Accuracy | Test Accuracy | Decision Boundary |
 |------|----------------|---------------|--------------------|
