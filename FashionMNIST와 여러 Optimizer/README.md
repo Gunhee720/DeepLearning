@@ -31,6 +31,8 @@
   - Test: 약 87%
 
 ### 🔹 문제 2: Minibatch 적용
+<img width="760" height="403" alt="image" src="https://github.com/user-attachments/assets/a2d43419-082b-447c-a66c-30fca322fab6" />
+
 - Batch Size = 64
 - GPU 병렬처리 성능 향상 → 학습 시간 단축, 성능도 증가
 - Accuracy:
@@ -43,6 +45,8 @@
 - 모델의 전반적인 성능 향상
 
 ### 🔹 문제 4: Optimizer 비교
+<img width="779" height="451" alt="image" src="https://github.com/user-attachments/assets/1d845cb5-2a9a-4477-87f3-ffbc4a800667" />
+
 - 비교 대상: `SGD`, `SGD+Momentum`, `SGD+Nesterov`, `AdaGrad`, `RMSProp`, `Adam`
 - 동일한 조건(epoch=10, lr=0.001) 하에 loss 감소 속도 비교
 - 결과:
